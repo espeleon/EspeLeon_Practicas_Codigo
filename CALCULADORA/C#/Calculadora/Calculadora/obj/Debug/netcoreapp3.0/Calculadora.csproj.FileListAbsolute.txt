@@ -1,0 +1,17 @@
+D:\GIT\CALCULADORA\C#\Calculadora\Calculadora\bin\Debug\netcoreapp3.0\Calculadora.exe
+D:\GIT\CALCULADORA\C#\Calculadora\Calculadora\bin\Debug\netcoreapp3.0\Calculadora.deps.json
+D:\GIT\CALCULADORA\C#\Calculadora\Calculadora\bin\Debug\netcoreapp3.0\Calculadora.runtimeconfig.json
+D:\GIT\CALCULADORA\C#\Calculadora\Calculadora\bin\Debug\netcoreapp3.0\Calculadora.runtimeconfig.dev.json
+D:\GIT\CALCULADORA\C#\Calculadora\Calculadora\bin\Debug\netcoreapp3.0\Calculadora.dll
+D:\GIT\CALCULADORA\C#\Calculadora\Calculadora\bin\Debug\netcoreapp3.0\Calculadora.pdb
+D:\GIT\CALCULADORA\C#\Calculadora\Calculadora\obj\Debug\netcoreapp3.0\Calculadora.csprojAssemblyReference.cache
+D:\GIT\CALCULADORA\C#\Calculadora\Calculadora\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+D:\GIT\CALCULADORA\C#\Calculadora\Calculadora\obj\Debug\netcoreapp3.0\App.g.cs
+D:\GIT\CALCULADORA\C#\Calculadora\Calculadora\obj\Debug\netcoreapp3.0\Calculadora_MarkupCompile.cache
+D:\GIT\CALCULADORA\C#\Calculadora\Calculadora\obj\Debug\netcoreapp3.0\Calculadora_MarkupCompile.lref
+D:\GIT\CALCULADORA\C#\Calculadora\Calculadora\obj\Debug\netcoreapp3.0\MainWindow.baml
+D:\GIT\CALCULADORA\C#\Calculadora\Calculadora\obj\Debug\netcoreapp3.0\Calculadora.g.resources
+D:\GIT\CALCULADORA\C#\Calculadora\Calculadora\obj\Debug\netcoreapp3.0\Calculadora.AssemblyInfoInputs.cache
+D:\GIT\CALCULADORA\C#\Calculadora\Calculadora\obj\Debug\netcoreapp3.0\Calculadora.AssemblyInfo.cs
+D:\GIT\CALCULADORA\C#\Calculadora\Calculadora\obj\Debug\netcoreapp3.0\Calculadora.dll
+D:\GIT\CALCULADORA\C#\Calculadora\Calculadora\obj\Debug\netcoreapp3.0\Calculadora.pdb
