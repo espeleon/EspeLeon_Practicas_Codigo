@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LletresRepetides_FASE2_CONSOLA", "LletresRepetides_FASE2_CONSOLA\LletresRepetides_FASE2_CONSOLA.csproj", "{272A7679-B62B-47C5-812D-37938C6F87E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{272A7679-B62B-47C5-812D-37938C6F87E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{272A7679-B62B-47C5-812D-37938C6F87E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{272A7679-B62B-47C5-812D-37938C6F87E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{272A7679-B62B-47C5-812D-37938C6F87E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {019562A2-41E8-42D4-82F3-CBE341025C00}
+	EndGlobalSection
+EndGlobal
